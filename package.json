@@ -4,10 +4,10 @@
 	"description": "Syntax coloring based on Firefox Developer Tools coloring",
 	"version": "0.1.1",
 	"publisher": "clintonrost",
-	"icon": "https://github.com/clintonrost/theme-firefox-devtools/blob/master/icon.png",
 	"categories": [
 		"Themes"
 	],
+	"icon": "https://github.com/clintonrost/theme-firefox-devtools/blob/master/assets/icon.png",
 	"galleryBanner": {
 		"color": "#A638FE",
 		"theme": "dark"
