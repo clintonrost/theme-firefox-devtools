@@ -7,6 +7,10 @@
 	"categories": [
 		"Themes"
 	],
+	"keywords": [
+		"dark",
+		"firefox"
+	],
 	"icon": "https://github.com/clintonrost/theme-firefox-devtools/blob/master/assets/icon.png",
 	"galleryBanner": {
 		"color": "#A638FE",
@@ -23,5 +27,13 @@
 				"path": "./themes/firefox_devtools.json"
 			}
 		]
+	},
+	"bugs": {
+		"url": "https://github.com/clintonrost/theme-firefox-devtools/issues",
+	},
+	"homepage": "https://github.com/clintonrost/theme-firefox-devtools/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/clintonrost/theme-firefox-devtools"
 	}
 }
