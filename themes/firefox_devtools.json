@@ -1,5 +1,5 @@
 {
-	"name": "Firefox Dev Tools",
+	"name": "Firefox DevTools",
 	"type": "dark",
 	"colors": {
 		"foreground": "#8699a9",
@@ -21,17 +21,16 @@
 		"editorGutter.background": "#0c0c0d",
 		"editorGutter.foreground": "",
 		"editorGutter.modifiedBackground": "#86DE74",
-		"editorGutter.addedBackground": "",
-		"editorGutter.deletedBackground": "",
+		"editorGutter.addedBackground": "#D99B28",
+		"editorGutter.deletedBackground": "#EB5368",
 		"editorIndentGuide.background": "#42495400",
 		"editorLineNumber.foreground": "#93939366",
 		"editorWhitespace.foreground": "#42495433",
 		"editorWidget.background": "#2c3442",
 
-
 		"gitDecoration.modifiedResourceForeground": "#86DE74",
 		"gitDecoration.untrackedResourceForeground": "#FFFFFF",
-		"gitDecoration.conflictingResourceForeground": "#D70022",
+		"gitDecoration.conflictingResourceForeground": "#EB5368",
 
 		"input.background": "#232a35",
 		"input.border": "#8699a9",
