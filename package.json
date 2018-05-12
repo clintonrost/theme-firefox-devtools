@@ -11,9 +11,9 @@
 		"dark",
 		"firefox"
 	],
-	"icon": "https://github.com/clintonrost/theme-firefox-devtools/blob/master/assets/icon.png",
+	"icon": "assets/icon.png",
 	"galleryBanner": {
-		"color": "#A638FE",
+		"color": "#101046",
 		"theme": "dark"
 	},
 	"engines": {
