@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- A comment -->
+<cc:content type="attributeType">
+	<cc:intro>
+		<cc:label>Articles</cc:label>
+		<cc:heading>Heading Text</cc:heading>
+		<cc:text>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+			Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		</cc:text>
+	</cc:intro>
+	<cc:masthead src="assets/images/example.jpg"/>
+</cc:content>

@@ -1,0 +1,47 @@
+@import "url";
+
+test {
+	font: 400 60px/1 TestFont, DogeFont, sans-serif;
+	display: block;
+	margin: 5px 0 0 5px;
+	float: left;
+	color: #FF3366;
+}
+test,
+test::before,
+test::after {
+	display: block;
+}
+[class*="test"] { display: block; }
+.test { display: block; }
+#test { display: block; }
+
+@media (min-width: 800px) {
+	[class*="test"] {
+		display: block;
+		margin: 5px 0 0 5px;
+		float: left;
+		color: #FF3366;
+		font-size: 60px;
+		font-family: Georgia;
+	}
+}
+
+/* Accent colors
+------------------------------ */
+:root {
+	--magenta-50: #ff1ad9;
+	--magenta-60: #ed00b5;
+	--magenta-70: #b5007f;
+	--magenta-80: #7d004f;
+	--magenta-90: #440027;
+}
+body {
+	font-size: 1em;
+	line-height: 1.4;
+	font-family: $customRegular;
+}
+h1, h2, h3, h4 {
+	font-family: $customThin;
+	font-weight: normal;
+}
