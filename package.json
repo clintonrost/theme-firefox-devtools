@@ -1,0 +1,27 @@
+{
+	"name": "theme-firefox-devtools",
+	"displayName": "Firefox DevTools",
+	"description": "Syntax coloring based on Firefox Developer Tools coloring",
+	"version": "0.1.1",
+	"publisher": "clintonrost",
+	"icon": "https://github.com/clintonrost/theme-firefox-devtools/blob/master/icon.png",
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#A638FE",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Firefox Devtools",
+				"uiTheme": "vs-dark",
+				"path": "./themes/firefox_devtools.json"
+			}
+		]
+	}
+}
